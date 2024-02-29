@@ -23,7 +23,6 @@ import {
   Text4,
 } from "../styles/PersonalInfoStyles";
 import { Box, Grid, TextField } from "@mui/material";
-import CheckIcon from "@mui/icons-material/Check";
 
 function PersonalInfo() {
   return (
